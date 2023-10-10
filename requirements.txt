@@ -7,3 +7,4 @@ requests
 PyInquirer
 pwnedpasswords
 jinja2
+prettytable
